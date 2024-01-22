@@ -1,7 +1,7 @@
 
  
 import 'package:chatapptute/components/custom_button.dart';
-import 'package:chatapptute/components/my_textfield.dart';
+import 'package:chatapptute/components/custom_textfield.dart';
 import 'package:chatapptute/services/auth/auth_service.dart';
 import 'package:flutter/material.dart';
 

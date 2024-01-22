@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'package:chatapptute/components/my_textfield.dart';
+import 'package:chatapptute/components/custom_textfield.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
