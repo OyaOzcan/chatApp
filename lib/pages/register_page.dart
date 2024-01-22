@@ -1,6 +1,6 @@
 
  
-import 'package:chatapptute/components/my_button.dart';
+import 'package:chatapptute/components/custom_button.dart';
 import 'package:chatapptute/components/my_textfield.dart';
 import 'package:chatapptute/services/auth/auth_service.dart';
 import 'package:flutter/material.dart';
@@ -49,25 +49,25 @@ class RegisterPage extends StatelessWidget {
               SizedBox(
                 height: 25,
               ),
-              MyTextField(
+              CustomTextField(
                 controller: _emailController,
                 obscureText: false,
                 hintText: "Email",
               ),
                SizedBox(height: 15),
-              MyTextField(
+              CustomTextField(
                 controller: _passwordController,
                 obscureText: false,
                 hintText: "Şifre",
               ),
                SizedBox(height: 15),
-              MyTextField(
+              CustomTextField(
                 controller: _confirmPasswordController,
                 obscureText: false,
                 hintText: "Şifre tekrarı",
               ),
                SizedBox(height: 15),
-              MyButton(
+              CustomButton(
                 text: "Kayıt Ol",
                 onTap:()=> register(context),
               ),

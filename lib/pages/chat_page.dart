@@ -113,7 +113,7 @@ class _ChatPageState extends State<ChatPage> {
           Expanded(
               child: Padding(
                 padding: const EdgeInsets.all(20.0),
-                child: MyTextField(
+                child: CustomTextField(
                             controller: _messageControlller,
                             hintText: "Mesaj Yaz",
                             obscureText: false,

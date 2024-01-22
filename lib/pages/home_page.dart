@@ -1,6 +1,6 @@
 
  
-import 'package:chatapptute/components/my_drawer.dart';
+import 'package:chatapptute/components/custom_drawer.dart';
 import 'package:chatapptute/components/user_tile.dart';
 import 'package:chatapptute/pages/chat_page.dart';
 import 'package:chatapptute/services/auth/auth_service.dart';
@@ -22,7 +22,7 @@ class HomePage extends StatelessWidget {
         backgroundColor: Colors.transparent,
         foregroundColor: Colors.grey,
       ),
-      drawer: const MyDrawer(),
+      drawer: const CustomDrawer(),
       body: _buildUserlist(),
     );
   }

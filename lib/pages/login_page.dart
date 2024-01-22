@@ -1,5 +1,5 @@
 
-import 'package:chatapptute/components/my_button.dart';
+import 'package:chatapptute/components/custom_button.dart';
 import 'package:chatapptute/components/my_textfield.dart';
 import 'package:chatapptute/services/auth/auth_service.dart';
 import 'package:flutter/material.dart';
@@ -49,19 +49,19 @@ try {
               SizedBox(
                 height: 30,
               ),
-              MyTextField(
+              CustomTextField(
                 controller: _emailController,
                 obscureText: false,
                 hintText: "Email",
               ),
               SizedBox(height: 15),
-              MyTextField(
+              CustomTextField(
                 controller: _passwordController,
                 obscureText: true,
                 hintText: "Şifre",
               ),
                  SizedBox(height: 15),
-              MyButton(
+              CustomButton(
                 text: "Giriş Yap",
                 onTap: ()=> login(context),
               ),
