@@ -2,6 +2,8 @@
 ![2](https://github.com/OyaOzcan/chatApp/assets/141520129/d86903d2-01eb-48e8-8c51-c1bcfba13a9f)
 ![Screenshot_1705940875](https://github.com/OyaOzcan/chatApp/assets/141520129/61d0d485-2d5f-4efe-afe0-7143f2e1db05)
 ![Screenshot_1705940863](https://github.com/OyaOzcan/chatApp/assets/141520129/a31be84a-0878-433b-ac86-7e55250d7b20)
+![Screenshot_1705941098](https://github.com/OyaOzcan/chatApp/assets/141520129/1b315115-6e01-41b8-b8a6-7f99f1ef760c)
+
 ![Screenshot_1705947334](https://github.com/OyaOzcan/chatApp/assets/141520129/3dc9c1fd-db38-4817-8cc2-707007588314)
 ![Screenshot_1705947323](https://github.com/OyaOzcan/chatApp/assets/141520129/cb3bc42c-775a-4ebd-a22f-31a8e8077e1e)
 ![Screenshot_1705947321](https://github.com/OyaOzcan/chatApp/assets/141520129/4cba1c3a-5f9a-4244-9505-d35c817c8c12)
